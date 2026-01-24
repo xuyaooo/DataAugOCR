@@ -1,0 +1,9 @@
+TrOCR/WordArt/test_image/
+TrOCR/WordArt/train_image/
+TrOCR/WordArt/test_label.txt
+TrOCR/WordArt/train_label.txt
+
+TrOCRAug/WordArt/test_image/
+TrOCRAug/WordArt/train_image/
+TrOCRAug/WordArt/test_label.txt
+TrOCRAug/WordArt/train_label.txt
